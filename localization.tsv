@@ -1,12 +1,12 @@
 Term	Notes	English	Japanese
-stella_farming_large_green_house_name		Large Greenhouse	大規模グリーンハウス
-stella_farming_large_green_house_description		Large Scale Green House. 3x results.	育成速度は同じだが、3倍の収穫が得られる。
-stella_farming_magic_farm_name		Magic Farm	魔法の農場
-stella_farming_magic_farm_description		Farm to Grow Magic Dust.	マジックダストを育てるための施設。
-stella_farming_farm_decompiler_name		Farm Decompiler	農園分解施設
-stella_farming_farm_decompiler_description		A Garden, a Farm, a Greenhouse decompile to a Soil.	農園や農場、グリーンハウスを分解して土壌に戻す。
-stella_farming_flatten_farm_name		Flatten greenhouse	平坦化農場
-stella_farming_flatten_farm_description		A greenhouse drops non-location cards when hervest.	最初から食材の状態で収穫できる農場。
+stella_farming_large_green_house_name		Large Greenhouse	大型温室
+stella_farming_large_green_house_description		Large Scale Green House. 3x results.	大型温室3倍结果。
+stella_farming_magic_farm_name		Magic Farm	魔法农场
+stella_farming_magic_farm_description		Farm to Grow Magic Dust.	农场种植魔法尘埃。
+stella_farming_farm_decompiler_name		Farm Decompiler	农场反编译器
+stella_farming_farm_decompiler_description		A Garden, a Farm, a Greenhouse decompile to a Soil.	花园农场温室分解成土壤。
+stella_farming_flatten_farm_name		Flatten greenhouse	压平温室
+stella_farming_flatten_farm_description		A greenhouse drops non-location cards when hervest.	温室在穿衣时掉落非定位卡
 stella_farming_idea_large_green_house_status		Building..	建造中...
 stella_farming_idea_large_green_house_glowth_status		Growing...	栽培中..
 stella_farming_idea_farm_decompiler_status		Building...	建造中...
@@ -15,7 +15,7 @@ stella_farming_idea_magic_farm_status		Building...	建造中...
 stella_farming_idea_magic_farm_glowth_status		Growth...	育成中...
 stella_farming_idea_flatten_farm_status		Building...	建造中...
 stella_farming_idea_flatten_farm_growth_status		Growth...	育成中...
-stella_farming_booster_name		Food Variants	食物革命
+stella_farming_booster_name		Food Variants	食品变种
 stella_farming_large_green_house_glowth_name		Error	エラー
 stella_farming_magic_farm_glowth_name		Error	エラー
 stella_farming_farm_decompiler_decompile_name		Error	エラー
